@@ -1,1 +1,1 @@
-# CCD
+# Cloud Coverage Determination
